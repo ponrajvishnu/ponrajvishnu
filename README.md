@@ -63,27 +63,6 @@ I'm a Full Stack Developer with **10+ years of professional experience** develop
 - ERP & Education
 - Marketing Automation
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ponrajvishnu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    height="165"
-    alt="Ponraj's GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponrajvishnu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="165"
-    alt="Most-used programming languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ponrajvishnu&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
 
 ## 🤝 Connect With Me
 
